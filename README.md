@@ -1,7 +1,7 @@
 # INTRO GITHUB BASICS
 
-# Git
+## Git
+Teeestttttt
+## Version Control
 
-# Version Control
-
-# Process Of Committing A Project To Github Repository
+## Process Of Committing A Project To Github Repository
